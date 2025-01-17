@@ -1,7 +1,7 @@
 import React from "react";
 import { FaHtml5, FaCss3Alt, FaReact, FaGitAlt, FaNode, FaJava } from "react-icons/fa";
 import { BiLogoTypescript, BiLogoJavascript } from "react-icons/bi";
-import { SiSentry, SiJest, SiRedux, SiMongodb, SiRealm, SiMysql } from "react-icons/si";
+import { SiSentry, SiJest, SiRedux, SiMongodb, SiRealm } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
 import styles from "./Skills.module.css";
 
